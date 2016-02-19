@@ -1,2 +1,2 @@
 # Dise-oweb
-Para el curso de Diseño de sitios web 
+Para el curso de Diseño de sitios web de la unad  
